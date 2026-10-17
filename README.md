@@ -1,3 +1,9 @@
+
+| **Nama** | Qonita Adzkiatul Mardiyah |
+|---|---|
+| **NPM** | G1A023086 |
+
+
 # SPK Pemilihan Lokasi Usaha Menggunakan GIS (SAW & TOPSIS)
 
 Studi kasus mata kuliah: **Informatics Practitioner Lecture Series 2026**
